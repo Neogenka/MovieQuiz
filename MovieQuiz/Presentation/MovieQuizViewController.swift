@@ -23,7 +23,7 @@ final class MovieQuizViewController: UIViewController {
     @IBOutlet weak private var textLabel: UILabel!
     @IBOutlet weak private var counterLabel: UILabel!
 
-    private var currentQuestionIndex = 0
+    private var currentQuestionIndex = -1  //знаю, что читерски, но работает же
     private var correctAnswers = 0
     private let questions: [QuizQuestion] = [
         QuizQuestion(
@@ -136,7 +136,7 @@ final class MovieQuizViewController: UIViewController {
         imageView.layer.borderColor = isCorrect ? UIColor.ypGreen.cgColor : UIColor.ypRed.cgColor
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
-            self.imageView.layer.borderColor = nil
+            self.imageView.layer.borderColor = UIColor.clear.cgColor
             self.showNextQuestionOrResults()
         }
     }
