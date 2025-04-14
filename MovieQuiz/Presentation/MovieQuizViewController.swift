@@ -22,9 +22,9 @@ final class MovieQuizViewController: UIViewController, QuestionFactoryDelegate {
     private var currentQuestionIndex = 0
     private var correctAnswers = 0
     private let questionsAmount: Int = 10
-    private var questionFactory: QuestionFactoryProtocol?  //ы
+    private var questionFactory: QuestionFactoryProtocol?
     private var currentQuestion: QuizQuestion?
-    let statisticService = StatisticServiceImplementation()
+    private let statisticService: StatisticService = StatisticServiceImplementation()
     private let alertPresenter = AlertPresenter()
     
     override func viewDidLoad() {
