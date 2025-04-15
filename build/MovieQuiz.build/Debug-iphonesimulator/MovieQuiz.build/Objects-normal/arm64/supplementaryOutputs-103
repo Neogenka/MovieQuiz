@@ -1,0 +1,18 @@
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Helpers/Array+Extensions.swift":
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/Array+Extensions.dia"
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/Array+Extensions.o"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/Array+Extensions.d"
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/Array+Extensions.swiftconstvalues"
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/Array+Extensions.swiftdeps"
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Services/QuestionFactoryProtocol.swift":
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuestionFactoryProtocol.swiftdeps"
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuestionFactoryProtocol.dia"
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuestionFactoryProtocol.swiftconstvalues"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuestionFactoryProtocol.d"
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuestionFactoryProtocol.o"
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Helpers/UIColor+Extensions.swift":
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/UIColor+Extensions.dia"
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/UIColor+Extensions.o"
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/UIColor+Extensions.swiftdeps"
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/UIColor+Extensions.swiftconstvalues"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/UIColor+Extensions.d"
