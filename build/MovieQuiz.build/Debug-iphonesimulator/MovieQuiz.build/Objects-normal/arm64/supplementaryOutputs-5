@@ -1,0 +1,18 @@
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Models/QuizQuestion.swift":
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuizQuestion.swiftconstvalues"
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuizQuestion.dia"
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuizQuestion.o"
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuizQuestion.swiftdeps"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/QuizQuestion.d"
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Presentation/MovieQuizPresenter.swift":
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/MovieQuizPresenter.dia"
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/MovieQuizPresenter.swiftdeps"
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/MovieQuizPresenter.o"
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/MovieQuizPresenter.swiftconstvalues"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/MovieQuizPresenter.d"
+"/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuiz/Models/GameResult.swift":
+  object: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/GameResult.o"
+  diagnostics: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/GameResult.dia"
+  swift-dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/GameResult.swiftdeps"
+  const-values: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/GameResult.swiftconstvalues"
+  dependencies: "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuiz.build/Objects-normal/arm64/GameResult.d"
