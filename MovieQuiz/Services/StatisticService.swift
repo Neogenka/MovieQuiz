@@ -7,7 +7,7 @@
 
 import Foundation
 
-final class StatisticServiceImplementation: StatisticService {
+final class StatisticService: StatisticServiceProtocol {
     private let storage: UserDefaults = .standard
     
     private enum Keys: String {
