@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests-master.dia",
+    "emit-module-dependencies" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests-master.swiftdeps"
+  },
+  "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/MovieQuizPresenterTests/MovieQuizPresenterTests.swift" : {
+    "const-values" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.swiftconstvalues",
+    "dependencies" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.d",
+    "diagnostics" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.dia",
+    "index-unit-output-path" : "/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.o",
+    "llvm-bc" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.bc",
+    "object" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.o",
+    "swift-dependencies" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests.swiftdeps",
+    "swiftmodule" : "/Users/m.kozhukhov/Documents/projects/MovieQuiz-ios/build/MovieQuiz.build/Debug-iphonesimulator/MovieQuizPresenterTests.build/Objects-normal/arm64/MovieQuizPresenterTests~partial.swiftmodule"
+  }
+}
