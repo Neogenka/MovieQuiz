@@ -1,8 +1,0 @@
-Target dependency graph (4 targets)
-Target 'MovieQuizPresenterTests' in project 'MovieQuiz'
-➜ Explicit dependency on target 'MovieQuiz' in project 'MovieQuiz'
-Target 'MovieQuizUITests' in project 'MovieQuiz'
-➜ Explicit dependency on target 'MovieQuiz' in project 'MovieQuiz'
-Target 'MovieQuizTests' in project 'MovieQuiz'
-➜ Explicit dependency on target 'MovieQuiz' in project 'MovieQuiz'
-Target 'MovieQuiz' in project 'MovieQuiz' (no dependencies)
